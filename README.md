@@ -4,7 +4,7 @@ This repository manages my config files on Windows system.
 clone this repository to the following location
 
 ```
-    $> ~/.config/
+    $HOME/.config/
 ```
 
 to do so, enter the following git command in the `$HOME\` folder.
